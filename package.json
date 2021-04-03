@@ -1,0 +1,23 @@
+{
+  "name": "GameBook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengjingfang111/GameBook.git"
+  },
+  "keywords": [],
+  "author": "dengjingfang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dengjingfang111/GameBook/issues"
+  },
+  "homepage": "https://github.com/dengjingfang111/GameBook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
